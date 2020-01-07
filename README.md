@@ -1,2 +1,2 @@
-# hello-world it's first time to write here
-first rep
+# hello-world let's get started to develop
+
